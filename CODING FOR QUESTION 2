@@ -1,4 +1,4 @@
-package assignment;
+package labTest1;
 import java.util.Scanner;
 public class PhoneKiosk {
 	/*
