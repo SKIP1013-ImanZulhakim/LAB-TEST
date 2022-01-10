@@ -1,0 +1,17 @@
+SAMPLE OUTPUT 1:
+
+Please enter your sales for today:
+500
+Please enter your hours worked for today:
+5
+Your commissions today is : Rm 50.00
+Your daily wages is     : Rm 75.00
+
+SAMPLE OUTPUT 2:
+
+Please enter your sales for today:
+100
+Please enter your hours worked for today:
+5
+Your commissions today is : Rm 0.00
+Your daily wages is     : Rm 25.00
